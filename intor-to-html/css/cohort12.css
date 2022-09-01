@@ -1,0 +1,53 @@
+/* 
+* {
+    color: brown;
+}
+ .green {
+    color: green;
+}
+.red {
+    color: red; 
+}
+#BigRed {
+    font-size: 35px;
+}
+
+.center {
+    text-align: center;
+}
+
+.large {
+    font-size: 20px;
+} */
+#link {
+    border-style: ridge;
+    border-color: blue;
+    margin-top: auto;
+
+}
+p {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    color: rgb(16, 56, 235);
+}
+h1 {
+    color: rgb(225, 208, 17);
+}
+body {
+    background-image: url(../img/beautiful-shot-forest-with-tall-green-trees_181624-20615.jpg);
+    background-size: 100%;
+   
+  }
+  #section1 {
+    background-color: rgb(178, 232, 160);
+    margin: 10%;
+    padding: 20px;
+    
+  }
+#section2 {
+    background-color:rgb(235, 105, 138);
+    margin: 10%;
+    padding: 20px;
+} 
